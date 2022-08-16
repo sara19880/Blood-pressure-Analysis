@@ -10,10 +10,10 @@
     This projects aims to analyse the blood pressure patient's taking diffrenet doses from blood pressure medicine and the effect of the medicine on patient's data.
     This project was built using R and the knowledge of hypothesis testing.
     
-    <br />
-    <a href="(https://github.com/sara19880)"><strong>Explore the docs »</strong></a>
-    <br />
-  </p>
+<br />
+<a href="(https://github.com/sara19880)"><strong>Explore the docs »</strong></a>
+<br />
+</p>
 </div>
 
 
